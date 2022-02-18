@@ -1,3 +1,4 @@
+<link src='./style.css' rel='stylesheet'>
 <h1 align="center">WXRE</h1>
 <img src='https://i.pinimg.com/originals/01/38/11/013811d63121a093c32714cbbeeea0d0.gif' width="100%">
 
