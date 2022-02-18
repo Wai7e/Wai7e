@@ -1,4 +1,6 @@
-<img href=url('https://phonoteka.org/uploads/posts/2021-07/1625712678_20-phonoteka-org-p-yaponskii-kiberpank-art-krasivo-21.jpg') align=center>
+<h1 align="center">WXRE</h1>
+<img src='https://phonoteka.org/uploads/posts/2021-07/1625712678_20-phonoteka-org-p-yaponskii-kiberpank-art-krasivo-21.jpg' width="100%">
+
 
 <!--
 **Wai7e/Wai7e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
