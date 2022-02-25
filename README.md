@@ -1,6 +1,5 @@
 <link src='./style.css' rel='stylesheet'>
 <h1 class="rainbow-animated" align="center">WXRE</h1>
-<img src='https://c.tenor.com/MzRcZD-THtoAAAAd/your-namee.gif' width="100%">
 <img src='https://c.tenor.com/LMAKcMtIbTwAAAAM/hi-sasasa.gif' width="100%">
 
 <!--
